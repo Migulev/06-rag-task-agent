@@ -1,0 +1,12 @@
+asana
+python-dotenv
+langchain
+langchain-anthropic
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+streamlit
+pdfminer.six
+unstructured[all-docs]
+sentence-transformers
